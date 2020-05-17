@@ -79,7 +79,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m[¤] \x1b[1;93mREDHATSTAFF\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP :0000000000\x1b[1;96m
+print  """\033[1;96m [¤] \x1b[1;93mREDHATSTAFF\x1b[1;96m  \033[1;96m  s[¤] \x1b[1;93mWHATSAPP :0000000000\x1b[1;96m
 \033[1;96m [¤] \x1b[1;93mxalo_software\x1b[1;96m [¤] \x1b[1;93mFACEBOOK : FACEBOOK\x1b[1;96m
 \033[1;96m [¤] \x1b[1;93mbzhi_kurd\x1b[1;96m     [¤] \x1b[1;93mYOUTUBE  : YOUTUBE\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
