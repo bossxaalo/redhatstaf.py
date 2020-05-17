@@ -97,11 +97,11 @@ while (loop == 'true'):
             loop = 'false'
         else:
            print "yang bener dong"
-            os.system('')
+            os.system('youtube.com')
         else:
 
            print "salah sayang!"
-        os.system('')
+        os.system('youtube.com')
 
 
 def login():
