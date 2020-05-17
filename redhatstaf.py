@@ -56,7 +56,7 @@ logo = """\033[1;93m█████████
 \033[1;93m╔════════════════════════════════════════════╗
 \033[1;93m║\033[1;96m* \033[1;93m7amo.software  \033[1;93m : \033[1;93mCode Boy       \033[1;93m         ║
 \033[1;93m║\033[1;96m* \033[1;93mXalo.software  \033[1;93m : \033[1;93mRoman          \033[1;93m         ║
-\033[1;93m║\033[1;96m* \033[1;93mRedhatstaff     \033[1;93m: \033[1;93m4m4 U K 0 W N 4\033[1;93m         ║
+\033[1;93m║\033[1;96m* \033[1;93mRedhatstaff     \033[1;93m: \033[1;93m4 U K 0 W N 4  \033[1;93m         ║
 \033[1;93m╚════════════════════════════════════════════╝"""
 
 
@@ -79,9 +79,9 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\033[1;96m ============================================================="
-print  """\033[1;96m [¤] \x1b[1;93MREDHATSTAFF\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP :0000000000\x1b[1;96m
-\033[1;96m [¤] \x1b[1;93mxalo_software\x1b[1;96m      [¤] \x1b[1;93mFACEBOOK : FACEBOOK\x1b[1;96m
-\033[1;96m [¤] \x1b[1;93mbzhi_kurd\x1b[1;96m  [¤] \x1b[1;93mYOUTUBE  : YOUTUBE\x1b[1;96m"""
+print  """\033[1;96m[¤] \x1b[1;93mREDHATSTAFF\x1b[1;96m  \033[1;96m   [¤] \x1b[1;93mWHATSAPP :0000000000\x1b[1;96m
+\033[1;96m [¤] \x1b[1;93mxalo_software\x1b[1;96m [¤] \x1b[1;93mFACEBOOK : FACEBOOK\x1b[1;96m
+\033[1;96m [¤] \x1b[1;93mbzhi_kurd\x1b[1;96m     [¤] \x1b[1;93mYOUTUBE  : YOUTUBE\x1b[1;96m"""
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "xalo_software"
