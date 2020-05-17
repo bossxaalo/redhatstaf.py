@@ -95,12 +95,11 @@ while (loop == 'true'):
         if (password == CorrectPassword):
             print "Logged in successfully as " + username
             loop = 'false'
-         else:
-           print "yang bener dong"
+        else:
+            print "yang bener dong"
             os.system('xdg-open https://wa.me/628569101563')
-
-      else:
-            print "salah sayang!"
+    else:
+        print "salah sayang!"
         os.system('xdg-open https://wa.me/628569101563')
 
 
